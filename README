@@ -1,0 +1,16 @@
+EcoFont Arduino based watering system.
+
+oscar bach (2011)
+
+It can be programmed to activate for the desired time every desired hours.
+
+Display:
+	* 16x2 character LCD.
+
+Outputs:
+	* Water pump.
+
+Inputs:
+	* Pressure sensor (to determine water level).
+	* 2 buttons for user control
+	
